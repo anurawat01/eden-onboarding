@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/eden-onboarding/static/js/main.02b90ca3.js",
+    "main.js": "/eden-onboarding/static/js/main.0488899a.js",
     "index.html": "/eden-onboarding/index.html",
-    "main.02b90ca3.js.map": "/eden-onboarding/static/js/main.02b90ca3.js.map"
+    "main.0488899a.js.map": "/eden-onboarding/static/js/main.0488899a.js.map"
   },
   "entrypoints": [
-    "static/js/main.02b90ca3.js"
+    "static/js/main.0488899a.js"
   ]
 }
