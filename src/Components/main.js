@@ -3,23 +3,18 @@ import Box from "@mui/material/Box";
 import Stepper from "@mui/material/Stepper";
 import Step from "@mui/material/Step";
 import StepLabel, { stepLabelClasses } from "@mui/material/StepLabel";
-import { styled } from "@mui/material/styles";
 import Button from "@mui/material/Button";
 import StepOneContent from "./Content/StepOne/StepOneContent";
 import StepTwoContent from "./Content/StepTwo/StepTwoContent";
 import StepThreeContent from "./Content/StepThree/StepThreeContent";
 import StepFourContent from "./Content/StepFour/StepFourContent";
 import Header from "./Content/Header";
-import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import {
-  colors,
-  Container,
   CssBaseline,
-  StepConnector,
   ThemeProvider,
 } from "@mui/material";
 import theme from "./Theme";
-import { useForm, FormProvider } from "react-hook-form";
+import { useForm } from "react-hook-form";
 
 const steps = ["1", "2", "3", "4"];
 
