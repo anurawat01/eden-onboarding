@@ -12,7 +12,7 @@ export default function Header() {
         justifyContent: 'center'
       }}
     >
-    <Avatar src="https://anurawat01.github.io/eden-onboarding/static/images/avatar/logo.jpg" alt="logo" />
+    <Avatar src="https://github.com/anurawat01/eden-onboarding/tree/master/public/static/images/avatar/logo.jpg" alt="logo" />
     <Typography variant="h6" sx={{ paddingTop:"5px"}} > Eden</Typography>
     </Box>
   );
