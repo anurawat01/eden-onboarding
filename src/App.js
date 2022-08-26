@@ -1,4 +1,4 @@
-import LinearStepper from './Components/main';
+import LinearStepper from './Components/MainPage';
 
 function App() {
   return (
